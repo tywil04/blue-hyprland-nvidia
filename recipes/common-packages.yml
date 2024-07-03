@@ -1,7 +1,7 @@
 type: rpm-ostree
 install:
 # launcher
-  - wofi
+  - rofi
 
 # environment
   - power-profiles-daemon
@@ -45,7 +45,7 @@ install:
   - kanshi
 
 # terminal
-  - foot
+  - kitty
 
 # notifications
   - dunst
