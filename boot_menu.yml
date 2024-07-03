@@ -1,0 +1,5 @@
+ublue_variants:
+  - label: tywil04/blue-hyprland-nvidia
+    ks: /kickstart/ublue-os.ks
+    flavors:
+      - label: hyprland-nvidia
